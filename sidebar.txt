@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mia:home|Door43 (mia)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mia|d43-mia repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mia/archive/master.zip|d43-mia.zip]]
+
+**Recent Changes**
+{{changes>ns = mia}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mia|Ethnologue data]]
+
